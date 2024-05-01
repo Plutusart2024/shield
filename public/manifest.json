@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "plooty-shield",
+  "short_name": "Plooty Shield",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#5616c6",
+  "description": "The ultimate personal security checklist"
+}
